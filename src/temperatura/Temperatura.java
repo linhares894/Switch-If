@@ -1,3 +1,10 @@
+/*
+TIPO  ºC Min   ºC Max
+A       10       17
+B       11       16
+C       12       15 
+D       13       14
+*/
 
 package temperatura;
 
